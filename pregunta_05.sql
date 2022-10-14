@@ -42,4 +42,4 @@
 --  >>> Escriba su codigo a partir de este punto <<<
 --  
 
-select * from tbl0 where c02 = 100 or c02 = 600
+SELECT * FROM tbl0 WHERE c02 = 100 OR c02 = 600

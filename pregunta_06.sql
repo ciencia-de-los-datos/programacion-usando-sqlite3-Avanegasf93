@@ -44,4 +44,4 @@
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
 
-select * from tbl1 where k0 = 'A' order by c14
+SELECT * FROM tbl1 WHERE k0 = 'A' ORDER BY c14

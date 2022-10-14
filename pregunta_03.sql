@@ -23,4 +23,4 @@
 --  >>> Escriba su codigo a partir de este punto <<<
 --  
 
-select * from tbl1 order by c14 limit 0,5
+SELECT * FROM tbl1 ORDER BY c14 LIMIT 0,5

@@ -41,4 +41,4 @@
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
 
-select k0, c16 from tbl1 where c16 like k0 || '%' 
+SELECT k0, c16 FROM tbl1 WHERE c16 LIKE k0 || '%' 

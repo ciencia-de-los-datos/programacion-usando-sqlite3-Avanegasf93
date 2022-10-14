@@ -39,4 +39,4 @@
 --  >>> Escriba su codigo a partir de este punto <<<
 --
 
-select * from tbl2 order by c21 limit 0,1
+SELECT * FROM tbl2 ORDER BY c21 LIMIT 0,1
