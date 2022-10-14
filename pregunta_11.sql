@@ -38,3 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+select strftime('%Y',c14) as year, count(*) from tbl1 where year="2018"
